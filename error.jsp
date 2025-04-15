@@ -11,7 +11,7 @@
         integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
     <title>Errore</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="shortcut icon" href="/idp/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/openam/images/favicon.ico" type="image/x-icon" />
     <script> history.replaceState({}, '', '/'); </script>
 </head>
 
@@ -29,7 +29,7 @@
                 <!-- coll img -->
                 <div class="col-12 mt-5">
                     <!-- img -->
-                    <img src="/idp/images/logo.png" style="width: 400px; left: 385px">
+                    <img src="/openam/images/logo.png" style="width: 400px; left: 385px">
                 </div>
 
                 <!-- coll title error -->
